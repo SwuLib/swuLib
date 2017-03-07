@@ -57,13 +57,13 @@
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 				  <ul class="nav navbar-nav">
 					<li><a class="active" href="index.jsp"><B>主页</B></a></li>
-					<li><a href="about.jsp"><B>新闻天地</B></a></li>
+					<li><a href="news.jsp"><B>新闻天地</B></a></li>
 					<li><a href="gallery.jsp"><B>生活风采</B></a></li>
 					<li class="dropdown">
 					  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><B>中心概况</B><span class="caret"></span></a>
 					  <ul class="dropdown-menu">
-						<li><a href="codes.jsp"><B>团队建设</B></a></li>
-						<li><a href="icons.jsp"><B>科研项目</B></a></li>
+						<li><a href="team.jsp"><B>团队建设</B></a></li>
+						<li><a href="projects.jsp"><B>科研项目</B></a></li>
 					  </ul>
 					</li>
 					<li><a href="contact.jsp"><B>联系我们</B></a></li>
@@ -85,15 +85,8 @@
 	<!-- banner-text -->
 		</div>
 		<div id="myFocus">
-			<!-- <div class="loading"><img src="images/loading.gif" alt="请稍候..." /></div> -->
 			<div class="pic" >
 	  		<ul>
-		        <!-- <li><img src="http://desk.fd.zol-img.com.cn/t_s1920x1080c5/g5/M00/02/05/ChMkJ1bKyNqIJo1VAALWmKlKthUAALIHgHC4VwAAtaw715.jpg" /></li>
-		        <li><img src="http://desk.fd.zol-img.com.cn/t_s1920x1080c5/g5/M00/02/05/ChMkJ1bKyNqINYxpAAh7xprgO2EAALIHgHUr9oACHve776.jpg" /></li>
-		        <li><img src="http://desk.fd.zol-img.com.cn/t_s1920x1080c5/g5/M00/02/05/ChMkJlbKyNOIXKWoAAakvWj2J-sAALIHQE6VvkABqTV961.jpg" /></li>
-		        <li><img src="http://desk.fd.zol-img.com.cn/t_s1920x1080c5/g5/M00/02/05/ChMkJlbKyNqIKpmPAAtEzqae6kgAALIHgHFuAwAC0Tm337.jpg" /></li>
-		        <li><img src="http://desk.fd.zol-img.com.cn/t_s1920x1200c5/g5/M00/02/05/ChMkJlbKyNOIS2scAAPXUX14L78AALIHQFA-84AA9dp418.jpg" /></li>
-		        <li><img src="http://desk.fd.zol-img.com.cn/t_s1920x1080c5/g5/M00/02/05/ChMkJlbKyNmIRm7jAAMVYMLIuUoAALIHgFzL-MAAxV4325.jpg" /></li> -->
 		        <li><img src="http://computer.swu.edu.cn/r/cms/computer/computer/images/news/public/banner1.jpg" /></li>
 		        <li><img src="http://computer.swu.edu.cn/u/cms/computer/201612/29104440m6ln_DSC_3115-1.jpg" /></li>
 		        <li><img src="http://computer.swu.edu.cn/u/cms/computer/201612/29095814caqy_%E5%9B%BE%E7%89%874.jpg" /></li>
@@ -101,7 +94,7 @@
 	  		</ul>
 	  		</div>
 		</div>
-		<div>
+
 <!-- //banner -->
 <!--services-section-->
 <div class="services-w3layouts" id="services">
@@ -114,7 +107,7 @@
 						<i class="fa fa-flask" aria-hidden="true"></i>
 					</div>
 					<div class="col-xs-9 w3l-our-advantages-grd-right">
-						<h4>Creative</h4>
+						<h4>车联网</h4>
 						<p>Vel illum qui dolorem eum fugiat quo voluptas 
 							nulla pariatur eum iure reprehenderit.</p>
 						<a href="single.html" data-toggle="modal" data-target="#myModal1" >More details<span class="glyphicon glyphicon glyphicon-arrow-right" aria-hidden="true"></span></a>
@@ -127,7 +120,7 @@
 						<i class="fa fa-graduation-cap" aria-hidden="true"></i>
 					</div>
 					<div class="col-xs-9 w3l-our-advantages-grd-right">
-						<h4>Global students</h4>
+						<h4>手持终端</h4>
 						<p>Vel illum qui dolorem eum fugiat quo voluptas 
 							nulla pariatur eum iure reprehenderit.</p>
 						<a href="single.html" data-toggle="modal" data-target="#myModal1" >More details<span class="glyphicon glyphicon glyphicon-arrow-right" aria-hidden="true"></span></a>
@@ -139,7 +132,7 @@
 						<i class="fa fa-pencil" aria-hidden="true"></i>
 					</div>
 					<div class="col-xs-9 w3l-our-advantages-grd-right">
-						<h4>About education</h4>
+						<h4>智能家居</h4>
 						<p>Vel illum qui dolorem eum fugiat quo voluptas 
 							nulla pariatur eum iure reprehenderit.</p>
 						<a href="single.html" data-toggle="modal" data-target="#myModal1" >More details<span class="glyphicon glyphicon glyphicon-arrow-right" aria-hidden="true"></span></a>
@@ -151,7 +144,7 @@
 						<i class="fa fa-cutlery" aria-hidden="true"></i>
 					</div>
 					<div class="col-xs-9 w3l-our-advantages-grd-right">
-						<h4>Modern canteen</h4>
+						<h4>智能医疗</h4>
 						<p>Vel illum qui dolorem eum fugiat quo voluptas 
 							nulla pariatur eum iure reprehenderit.</p>
 						<a href="single.html" data-toggle="modal" data-target="#myModal1" >More details<span class="glyphicon glyphicon glyphicon-arrow-right" aria-hidden="true"></span></a>
@@ -163,7 +156,7 @@
 						<i class="fa fa-book" aria-hidden="true"></i>
 					</div>
 					<div class="col-xs-9 w3l-our-advantages-grd-right">
-						<h4>Friendly support</h4>
+						<h4>自动驾驶</h4>
 						<p>Vel illum qui dolorem eum fugiat quo voluptas 
 							nulla pariatur eum iure reprehenderit.</p>
 						<a href="single.html" data-toggle="modal" data-target="#myModal1" >More details<span class="glyphicon glyphicon glyphicon-arrow-right" aria-hidden="true"></span></a>
@@ -175,7 +168,7 @@
 						<i class="fa fa-bar-chart" aria-hidden="true"></i>
 					</div>
 					<div class="col-xs-9 w3l-our-advantages-grd-right">
-						<h4>Top education</h4>
+						<h4>机械人助理</h4>
 						<p>Vel illum qui dolorem eum fugiat quo voluptas 
 							nulla pariatur eum iure reprehenderit.</p>
 						<a href="single.html" data-toggle="modal" data-target="#myModal1" >More details<span class="glyphicon glyphicon glyphicon-arrow-right" aria-hidden="true"></span></a>
@@ -368,7 +361,7 @@
 <!-- Footer -->
 
 			<div class="copyright-wthree">
-				<p>Copyright &copy; 2017.Company name All rights reserved.<a target="_blank" href="http://sc.chinaz.com/moban/">&#x7F51;&#x9875;&#x6A21;&#x677F;</a></p>
+				<p>Copyright &copy; 2017.Company name All rights reserved.<a target="_blank" ></a></p>
 			</div>
 <!-- //Footer -->
 
