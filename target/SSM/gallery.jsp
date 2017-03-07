@@ -32,39 +32,32 @@
 			<nav class="navbar navbar-default">
 				<!-- Brand and toggle get grouped for better mobile display -->
 				<div class="navbar-header">
-				  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-					<span class="sr-only">Toggle navigation</span>
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-				  </button>				  
-				<div class="w3-logo">
-					<h1><a href="index.jsp">Educative</a></h1>
-					<label></label>
-				</div>
+					<div class="w3-logo">
+						<img src=""><h1><a href="index.jsp">物联智能创新中心</a></h1>
+					</div>
 				</div>
 
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 				  <ul class="nav navbar-nav">
-					<li><a href="index.jsp">Home</a></li>
-					<li><a href="about.jsp">About</a></li>
-					<li><a class="active" href="gallery.jsp">Gallery</a></li>
-					<li class="dropdown">
-					  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Pages<span class="caret"></span></a>
-					  <ul class="dropdown-menu">
-						<li><a href="codes.jsp">Short Codes</a></li>
-						<li><a href="icons.jsp">Icons</a></li>
-					  </ul>
-					</li>
-					<li><a href="contact.jsp">Contact</a></li>
+					  <li><a href="index.jsp"><B>主页</B></a></li>
+					  <li><a href="news.jsp"><B>新闻天地</B></a></li>
+					  <li><a class="active"  href="gallery.jsp"><B>生活风采</B></a></li>
+					  <li class="dropdown">
+						  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><B>中心概况</B><span class="caret"></span></a>
+						  <ul class="dropdown-menu">
+							  <li><a href="team.jsp"><B>团队建设</B></a></li>
+							  <li><a href="projects.jsp"><B>科研项目</B></a></li>
+						  </ul>
+					  </li>
+					  <li><a href="contact.jsp"><B>联系我们</B></a></li>
 				  </ul>
-				 <div class="subscribe">
+				<%-- <div class="subscribe">
 					<form>
 						<input type="search" class="sub-email" name="Search" required="">
 						<input type="submit"  value="">
 					</form>
-				</div>
+				</div>--%>
 				</div><!-- /.navbar-collapse -->
 				 
 			</nav>
@@ -73,7 +66,7 @@
 			</div>
 		</header>
 	<!-- //header -->
-	<h2> Our Gallery</h2>
+	<h2> 我们的风采</h2>
 	</div>
 <!-- //banner -->
 <!--gallery-->
