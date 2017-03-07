@@ -1,0 +1,135 @@
+[INFO] [2017-03-06 20:08:00][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2017-03-06 20:08:00][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Mon Mar 06 20:08:00 CST 2017]; root of context hierarchy
+[INFO] [2017-03-06 20:08:00][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2017-03-06 20:08:00][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2017-03-06 20:08:00][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2017-03-06 20:08:01][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 478 ms
+[INFO] [2017-03-06 20:08:01][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'SpringMVC': initialization started
+[INFO] [2017-03-06 20:08:01][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'SpringMVC-servlet': startup date [Mon Mar 06 20:08:01 CST 2017]; parent: Root WebApplicationContext
+[INFO] [2017-03-06 20:08:01][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mvc.xml]
+[INFO] [2017-03-06 20:08:01][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2017-03-06 20:08:01][org.hibernate.validator.internal.util.Version]HV000001: Hibernate Validator 5.1.0.Final
+[INFO] [2017-03-06 20:08:01][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/js/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+[INFO] [2017-03-06 20:08:01][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/css/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+[INFO] [2017-03-06 20:08:01][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/fonts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+[INFO] [2017-03-06 20:08:01][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+[INFO] [2017-03-06 20:08:01][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'SpringMVC': initialization completed in 522 ms
+[WARN] [2017-03-06 20:08:16][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/SSM/] in DispatcherServlet with name 'SpringMVC'
+[WARN] [2017-03-06 20:08:21][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/SSM/] in DispatcherServlet with name 'SpringMVC'
+[WARN] [2017-03-06 20:08:25][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/SSM/] in DispatcherServlet with name 'SpringMVC'
+[WARN] [2017-03-06 20:08:30][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/SSM/indx] in DispatcherServlet with name 'SpringMVC'
+[WARN] [2017-03-06 20:08:36][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/SSM/index] in DispatcherServlet with name 'SpringMVC'
+[WARN] [2017-03-06 20:08:47][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/SSM/index] in DispatcherServlet with name 'SpringMVC'
+[WARN] [2017-03-06 20:08:52][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/SSM/] in DispatcherServlet with name 'SpringMVC'
+[WARN] [2017-03-06 20:12:01][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/SSM/] in DispatcherServlet with name 'SpringMVC'
+[WARN] [2017-03-06 20:12:03][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/SSM/] in DispatcherServlet with name 'SpringMVC'
+[WARN] [2017-03-06 20:12:03][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/SSM/] in DispatcherServlet with name 'SpringMVC'
+[WARN] [2017-03-06 20:12:04][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/SSM/] in DispatcherServlet with name 'SpringMVC'
+[WARN] [2017-03-06 20:12:07][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/SSM/] in DispatcherServlet with name 'SpringMVC'
+[INFO] [2017-03-06 20:13:05][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2017-03-06 20:13:05][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Mon Mar 06 20:13:05 CST 2017]; root of context hierarchy
+[INFO] [2017-03-06 20:13:05][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2017-03-06 20:13:05][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2017-03-06 20:13:05][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2017-03-06 20:13:05][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 403 ms
+[INFO] [2017-03-06 20:13:05][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'SpringMVC': initialization started
+[INFO] [2017-03-06 20:13:05][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'SpringMVC-servlet': startup date [Mon Mar 06 20:13:05 CST 2017]; parent: Root WebApplicationContext
+[INFO] [2017-03-06 20:13:05][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mvc.xml]
+[INFO] [2017-03-06 20:13:05][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2017-03-06 20:13:05][org.hibernate.validator.internal.util.Version]HV000001: Hibernate Validator 5.1.0.Final
+[INFO] [2017-03-06 20:13:06][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/js/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+[INFO] [2017-03-06 20:13:06][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/css/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+[INFO] [2017-03-06 20:13:06][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/fonts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+[INFO] [2017-03-06 20:13:06][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+[INFO] [2017-03-06 20:13:06][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'SpringMVC': initialization completed in 480 ms
+[WARN] [2017-03-06 20:13:10][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/SSM/] in DispatcherServlet with name 'SpringMVC'
+[WARN] [2017-03-06 20:13:27][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/SSM/index] in DispatcherServlet with name 'SpringMVC'
+[WARN] [2017-03-06 20:13:35][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/SSM/] in DispatcherServlet with name 'SpringMVC'
+[INFO] [2017-03-06 20:14:49][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2017-03-06 20:14:49][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Mon Mar 06 20:14:49 CST 2017]; root of context hierarchy
+[INFO] [2017-03-06 20:14:49][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2017-03-06 20:14:50][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2017-03-06 20:14:50][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2017-03-06 20:14:50][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 417 ms
+[INFO] [2017-03-06 20:14:50][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'SpringMVC': initialization started
+[INFO] [2017-03-06 20:14:50][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'SpringMVC-servlet': startup date [Mon Mar 06 20:14:50 CST 2017]; parent: Root WebApplicationContext
+[INFO] [2017-03-06 20:14:50][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mvc.xml]
+[INFO] [2017-03-06 20:14:50][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2017-03-06 20:14:50][org.hibernate.validator.internal.util.Version]HV000001: Hibernate Validator 5.1.0.Final
+[INFO] [2017-03-06 20:14:50][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/js/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+[INFO] [2017-03-06 20:14:50][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/css/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+[INFO] [2017-03-06 20:14:50][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/fonts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+[INFO] [2017-03-06 20:14:50][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+[INFO] [2017-03-06 20:14:50][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'SpringMVC': initialization completed in 506 ms
+[WARN] [2017-03-06 20:14:53][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/SSM/] in DispatcherServlet with name 'SpringMVC'
+[WARN] [2017-03-06 20:14:53][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/SSM/] in DispatcherServlet with name 'SpringMVC'
+[WARN] [2017-03-06 20:14:56][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/SSM/] in DispatcherServlet with name 'SpringMVC'
+[WARN] [2017-03-06 20:15:02][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/SSM/] in DispatcherServlet with name 'SpringMVC'
+[INFO] [2017-03-06 20:23:57][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2017-03-06 20:23:57][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Mon Mar 06 20:23:57 CST 2017]; root of context hierarchy
+[INFO] [2017-03-06 20:23:58][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2017-03-06 20:23:58][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2017-03-06 20:23:58][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2017-03-06 20:23:58][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 413 ms
+[INFO] [2017-03-06 20:23:58][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'SpringMVC': initialization started
+[INFO] [2017-03-06 20:23:58][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'SpringMVC-servlet': startup date [Mon Mar 06 20:23:58 CST 2017]; parent: Root WebApplicationContext
+[INFO] [2017-03-06 20:23:58][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mvc.xml]
+[INFO] [2017-03-06 20:23:58][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2017-03-06 20:23:58][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public org.springframework.web.servlet.ModelAndView com.heart.controller.IndexControllor.index()
+[INFO] [2017-03-06 20:23:58][org.hibernate.validator.internal.util.Version]HV000001: Hibernate Validator 5.1.0.Final
+[INFO] [2017-03-06 20:23:58][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/js/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+[INFO] [2017-03-06 20:23:58][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/css/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+[INFO] [2017-03-06 20:23:58][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/fonts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+[INFO] [2017-03-06 20:23:58][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+[INFO] [2017-03-06 20:23:58][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'SpringMVC': initialization completed in 500 ms
+[INFO] [2017-03-06 20:34:06][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2017-03-06 20:34:06][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Mon Mar 06 20:34:06 CST 2017]; root of context hierarchy
+[INFO] [2017-03-06 20:34:06][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2017-03-06 20:34:06][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2017-03-06 20:34:06][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2017-03-06 20:34:06][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 418 ms
+[INFO] [2017-03-06 20:34:06][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'SpringMVC': initialization started
+[INFO] [2017-03-06 20:34:06][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'SpringMVC-servlet': startup date [Mon Mar 06 20:34:06 CST 2017]; parent: Root WebApplicationContext
+[INFO] [2017-03-06 20:34:06][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mvc.xml]
+[INFO] [2017-03-06 20:34:06][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2017-03-06 20:34:06][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public org.springframework.web.servlet.ModelAndView com.heart.controller.IndexControllor.index()
+[INFO] [2017-03-06 20:34:06][org.hibernate.validator.internal.util.Version]HV000001: Hibernate Validator 5.1.0.Final
+[INFO] [2017-03-06 20:34:07][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/js/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+[INFO] [2017-03-06 20:34:07][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/css/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+[INFO] [2017-03-06 20:34:07][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/fonts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+[INFO] [2017-03-06 20:34:07][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+[INFO] [2017-03-06 20:34:07][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'SpringMVC': initialization completed in 521 ms
+[INFO] [2016-12-06 20:52:12][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2016-12-06 20:52:12][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Tue Dec 06 20:52:12 CST 2016]; root of context hierarchy
+[INFO] [2016-12-06 20:52:12][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2016-12-06 20:52:12][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2016-12-06 20:52:12][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2016-12-06 20:52:12][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 403 ms
+[INFO] [2016-12-06 20:52:12][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'SpringMVC': initialization started
+[INFO] [2016-12-06 20:52:12][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'SpringMVC-servlet': startup date [Tue Dec 06 20:52:12 CST 2016]; parent: Root WebApplicationContext
+[INFO] [2016-12-06 20:52:12][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mvc.xml]
+[INFO] [2016-12-06 20:52:13][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2016-12-06 20:52:13][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public org.springframework.web.servlet.ModelAndView com.heart.controller.IndexControllor.index()
+[INFO] [2016-12-06 20:52:13][org.hibernate.validator.internal.util.Version]HV000001: Hibernate Validator 5.1.0.Final
+[INFO] [2016-12-06 20:52:13][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/js/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+[INFO] [2016-12-06 20:52:13][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/css/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+[INFO] [2016-12-06 20:52:13][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/fonts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+[INFO] [2016-12-06 20:52:13][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+[INFO] [2016-12-06 20:52:13][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'SpringMVC': initialization completed in 887 ms
+[INFO] [2016-12-06 20:55:05][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2016-12-06 20:55:05][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Tue Dec 06 20:55:05 CST 2016]; root of context hierarchy
+[INFO] [2016-12-06 20:55:05][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2016-12-06 20:55:06][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2016-12-06 20:55:06][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2016-12-06 20:55:06][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 426 ms
+[INFO] [2016-12-06 20:55:06][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'SpringMVC': initialization started
+[INFO] [2016-12-06 20:55:06][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'SpringMVC-servlet': startup date [Tue Dec 06 20:55:06 CST 2016]; parent: Root WebApplicationContext
+[INFO] [2016-12-06 20:55:06][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mvc.xml]
+[INFO] [2016-12-06 20:55:06][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2016-12-06 20:55:06][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public org.springframework.web.servlet.ModelAndView com.heart.controller.IndexControllor.index()
+[INFO] [2016-12-06 20:55:06][org.hibernate.validator.internal.util.Version]HV000001: Hibernate Validator 5.1.0.Final
+[INFO] [2016-12-06 20:55:06][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/js/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+[INFO] [2016-12-06 20:55:06][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/css/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+[INFO] [2016-12-06 20:55:06][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/fonts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+[INFO] [2016-12-06 20:55:06][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+[INFO] [2016-12-06 20:55:06][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'SpringMVC': initialization completed in 664 ms
