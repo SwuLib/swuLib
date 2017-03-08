@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.heart.dao.photoDao.PhotoDao">
+
+    <select id="loadPhotoById" parameterType="Integer" resultType="com.heart.dto.PhotoDto">
+        SELECT * FROM t_photo WHERE pid = #{pid}
+    </select>
+
+    <select id="loadPhotoListByType" parameterType="Integer" resultType="com.heart.dto.PhotoDto">
+        SELECT * FROM t_photo WHERE  ptype = #{ptype}
+    </select>
+
+</mapper>

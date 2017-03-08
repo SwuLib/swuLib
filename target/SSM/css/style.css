@@ -284,7 +284,7 @@ section {
     text-decoration: none;
     height:34px;
     width:34px;
-    background: url("../images/left.png") no-repeat 0px 0px;
+    /*background: url("../images/left.png") no-repeat 0px 0px;*/
 }
 .callbacks_nav.prev {
 	 left: auto;
@@ -478,7 +478,7 @@ font-weight:600;
 i.white{
 	color:#fff;
 }
-/*-- services --*/
+/*-- service --*/
 h5.title-w3 {
     font-size: 35px;
     text-transform: uppercase;
@@ -489,8 +489,11 @@ h5.title-w3 {
 h5.head{
 	color:#fff;
 }
-.services-w3layouts,.reviews,.signup,.gallery,.wthree-main-content,.team,.contact-agile{
+.services-w3layouts,.reviews,.signup,.wthree-main-content,.team,.contact-agile{
     padding: 100px 0px;
+}
+.gallery{
+    padding: 50px 0px;
 }
 .agile-info-advantages{
 	padding:60px 0 0;
@@ -574,7 +577,7 @@ p.vel {
     -moz-transition: 0.5s all;
     -ms-transition: 0.5s all;
 }
-/*-- //services --*/
+/*-- //service --*/
 
 /*--/review--*/
 #review {
@@ -847,7 +850,7 @@ div#gallery h6 {
     -ms-transition: 0.3s all;
 }
 div#gallery {
-    background: #1ca0de;
+    background: #daffc6;
 }
 .flex-slider{	
 	background:#222227;
@@ -899,13 +902,13 @@ div#gallery {
 }
 .nbs-flexisel-nav-left {
     left: 95%;
-    background: url(../images/next.png) no-repeat 0px 0px;
+    background: url(../images/right.png) no-repeat 0px 0px;
 	 background-size: 25px;
 }
 
 .nbs-flexisel-nav-right {
     right: 7%;
-    background: url(../images/back.png) no-repeat 0px 0px;
+    background: url(../images/left.png) no-repeat 0px 0px;
     background-size: 25px;
 }
 /*--//flexisel--*/
@@ -918,7 +921,7 @@ div#gallery {
 }
 .portfolio-modal {
     padding: 0 !important;
-	overflow: inherit !important;
+	/*overflow: inherit !important;*/
 }
 .portfolio-modal .modal-content {
     padding: 10px 0 35px;
@@ -1057,7 +1060,7 @@ div#gallery {
 	display:inline-block;
 }
 .about-bottom-grid ul li a.facebook1{
-	background:url(../images/img-sp.png) no-repeat 3px -3px #ABABAB;
+	/*background:url(../images/img-sp.png) no-repeat 3px -3px #ABABAB;*/
 	display:block;
 	height:40px;
 	width:40px;
@@ -1068,11 +1071,11 @@ div#gallery {
 	-ms-transition:.5s ease-in;
 }
 .about-bottom-grid ul li a.facebook1:hover{
-	background:url(../images/img-sp.png) no-repeat 3px -3px #73eac4;
+	/*background:url(../images/img-sp.png) no-repeat 3px -3px #73eac4;*/
 	display:block;
 }
 .about-bottom-grid ul li a.twitter1{
-	background:url(../images/img-sp.png) no-repeat 3px -39px #ABABAB;
+	/*background:url(../images/img-sp.png) no-repeat 3px -39px #ABABAB;*/
 	display:block;
 	height:40px;
 	width:40px;
@@ -1083,11 +1086,11 @@ div#gallery {
 	-ms-transition:.5s ease-in;
 }
 .about-bottom-grid ul li a.twitter1:hover{
-	background:url(../images/img-sp.png) no-repeat 3px -39px #73eac4;
+	/*background:url(../images/img-sp.png) no-repeat 3px -39px #73eac4;*/
 	display:block;
 }
 .about-bottom-grid ul li a.p1{
-	background:url(../images/img-sp.png) no-repeat 3px -74px #ABABAB;
+	/*background:url(../images/img-sp.png) no-repeat 3px -74px #ABABAB;*/
 	display:block;
 	height:40px;
 	width:40px;
@@ -1098,7 +1101,7 @@ div#gallery {
 	-ms-transition:.5s ease-in;
 }
 .about-bottom-grid ul li a.p1:hover{
-	background:url(../images/img-sp.png) no-repeat 3px -74px #73eac4;
+	/*background:url(../images/img-sp.png) no-repeat 3px -74px #73eac4;*/
 	display:block;
 }
 /*-- team --*/

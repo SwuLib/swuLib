@@ -2,12 +2,14 @@ package com.heart.dao.memberDao;
 
 import com.heart.dto.MemberDto;
 import org.apache.ibatis.annotations.Param;
+import org.springframework.stereotype.Repository;
 
 import java.util.List;
 
 /**
  * Created by Administrator on 2017/3/6.
  */
+@Repository("memberDao")
 public interface MemberDao {
 
     /**

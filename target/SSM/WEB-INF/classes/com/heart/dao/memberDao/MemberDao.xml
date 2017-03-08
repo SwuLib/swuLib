@@ -2,11 +2,11 @@
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="com.heart.dao.memberDao.MemberDao">
 
-   <select id="loadMemberById" parameterType="Integer">
+   <select id="loadMemberById" parameterType="Integer" resultType="com.heart.dto.MemberDto">
        SELECT * FROM t_member WHERE mid = #{mid}
    </select>
 
-   <select id="loadMemberList">
+   <select id="loadMemberList" resultType="com.heart.dto.MemberDto">
       SELECT mid,mname FROM t_member
    </select>
 
